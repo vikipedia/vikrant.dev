@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "topics.html",
+    "href": "topics.html",
+    "title": "Topics",
+    "section": "",
+    "text": "Following topics will be covered in this training. The order and depth of topic may differ slightly depending on progress of participants.\n\nModule I\n\nGetting Started With Interpreter\n\nInstallation\nInterpreters / Jupyter\n\n\n\nCalculating With Python\n\nNumbers\nText\nCollections\nBuilt ins\n\n\n\nProgramming Constructs\n\nLoops\nConditions\nFunctions\n\n\n\nScience and Maths\n\nStatistics\nChaos\nRiffle shuffle\n\n\n\n\nModule II\n\nWorking With Files\n\nRead/write text files\nScripts\nBackup\n\n\n\nMatter of Style\n\nList/Dictionary comprehensions\nCommon iteration patterns\nMake a deck and shuffle it!\n\n\n\nData\n\nTabular data\nData Cleaning\nVisualizing Data\n\n\n\nScience and Mathematics\n\nProblems from science and mathematics\n\n\n\n\nModule III\n\nObject Oriented Programming\n\nClasses\nTime bomb - remembering state with classes\n\n\n\nSimulations\n\nChoose five random cards from deck\nProbability of head Vs tail\nPrisoner’s Dilemma\n\n\n\nScience and Maths\n\nPredator Prey Simulation"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Training Notes",
+    "section": "",
+    "text": "Notes of sessions will appear here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Python Made Easy: Math & Science Edition",
+    "section": "",
+    "text": "Discover coding through fun experiments in science and mathematics\nTraditionally programming was for computer scientists. Today’s science research is much demanding with use of computers. So programming need not be special skill of only programmers. This course will teach you python programming with some interesting computational experiments from science and maths. See topics for more details.\n\nNo prior knowledge of python expected\nComplete hands on training\nPortfolio building with interesting assignments\nBatch of 10+1 participants\nTotal 12 sessions: 3 offline and 9 online\nFees Rs 15000/-\n33% discount for students\n\nStarting from 20th Sep each Saturday 10 to 12 am\nFor registration contact: +91 855 29 69 377 (WhatsApp)"
+  },
+  {
+    "objectID": "trainer.html",
+    "href": "trainer.html",
+    "title": "Trainer",
+    "section": "",
+    "text": "Vikrant has done his M.Tech in Computational Science from Indian Institute of Science, Bangalore. He has 22 years of experience in software development. He has worked in diverse areas like Computational Fluid Dynamics, mathematical algorithms for bio-informatics, network-based license servers etc. He has worked at Strand Life Sciences, DRDO, M&M. He has given consultancy to Prayas Energy Group, S & I (Simulation & Innovation) Engineering Solutions (Sandi) for various computational and software projects.\nHe is also a corporate trainer for python programming. He has delivered many corporate python workshops through Pipal Academy in python programming to DRDO, Arcesium, VMware, Grofers (Blinkit) etc."
+  }
+]

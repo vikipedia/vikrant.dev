@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  site-url: https://vikrant.dev/python-made-easy-science-math/
+  title: "Math & Science Edition"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - trainer.qmd
+      - topics.qmd
+      - notes.qmd
+  
+format:
+  html:
+    theme:
+      - journal
+      - brand
+    css: styles.css
+    toc: true
+
+
+

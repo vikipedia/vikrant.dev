@@ -1,0 +1,61 @@
+---
+title: Topics
+---
+
+Following topics will be covered in this training. The order and depth of topic may differ slightly depending on progress of participants.
+
+### Module I
+
+#### Getting Started With Interpreter
+- Installation
+- Interpreters / Jupyter
+
+#### Calculating With Python
+- Numbers 
+- Text
+- Collections
+- Built ins
+
+#### Programming Constructs
+- Loops
+- Conditions
+- Functions
+
+#### Science and Maths
+- Statistics
+- Chaos
+- Riffle shuffle
+
+### Module II
+
+#### Working With Files
+- Read/write text files
+- Scripts
+- Backup
+
+#### Matter of Style
+- List/Dictionary comprehensions
+- Common iteration patterns
+- Make a deck and shuffle it!
+
+#### Data
+- Tabular data
+- Data Cleaning
+- Visualizing Data
+
+#### Science and Mathematics
+- Problems from science and mathematics
+
+### Module III
+
+#### Object Oriented Programming
+- Classes
+- Time bomb - remembering state with classes
+
+#### Simulations
+- Choose five random cards from deck
+- Probability of head Vs tail
+- Prisoner's Dilemma 
+
+#### Science and Maths
+- Predator Prey Simulation
