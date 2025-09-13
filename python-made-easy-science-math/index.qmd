@@ -5,7 +5,7 @@ title: "Python Made Easy: Math & Science Edition"
 _Discover coding through fun experiments in science and mathematics_
 
 
-Traditionally programming was for computer scientists. Today's science research is much demanding with use of computers. So programming need not be special skill of only programmers. This course will teach you python programming with some interesting computational experiments from science and maths. See [topics](https://vikrant.dev/python-made-easy-science-math/topics.htm) for more details.
+Traditionally programming was for computer scientists. Today's science research is much demanding with use of computers. So programming need not be special skill of only programmers. This course will teach you python programming with some interesting computational experiments from science and maths. See [topics](https://vikrant.dev/python-made-easy-science-math/topics.html) for more details.
 
 
 - No prior knowledge of python expected
@@ -16,7 +16,7 @@ Traditionally programming was for computer scientists. Today's science research 
 - Fees Rs 15000/- 
 - 33% discount for students
 
-**Starting from 20th Sep each Saturday 10 to 12 am** 
+**Starting from 20th Sep,2025 Saturday 10 am to 12 noon** 
 
 **For registration contact: +91 855 29 69 377 (WhatsApp)**
 
