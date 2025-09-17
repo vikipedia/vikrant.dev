@@ -8,7 +8,8 @@ _Discover coding through fun experiments in science and mathematics_
 Traditionally programming was for computer scientists. Today's science research is much demanding with use of computers. So programming need not be special skill of only programmers. This course will teach you python programming with some interesting computational experiments from science and maths. See [topics](https://vikrant.dev/python-made-easy-science-math/topics.html) for more details.
 
 
-- No prior knowledge of python expected
+- No prior knowledge of python or programming is expected 
+- Basic knowledge of mathematics and science of HSC level is good enough
 - Complete hands on training
 - Portfolio building with interesting assignments
 - Batch of 10+1 participants

@@ -2,8 +2,8 @@
 title: "Trainer"
 ---
 
-Vikrant has done his M.Tech in Computational Science from Indian Institute of Science, Bangalore. He has 22 years of experience in software development. He has worked in diverse areas like Computational Fluid Dynamics, mathematical algorithms for bio-informatics, network-based license servers etc. He has worked at [Strand Life Sciences](https://strandls.com/), [DRDO](https://www.drdo.gov.in/drdo/labs-and-establishments/research-development-establishment-rdee), [M&M](https://www.mahindra.com/). He has given consultancy to [Prayas Energy Group](https://energy.prayaspune.org/), [S & I (Simulation & Innovation) Engineering Solutions (Sandi)](https://sandi.co.in/) for various computational and software projects.
+Vikrant has done his M.Tech in Computational Science from Indian Institute of Science, Bangalore. He has 22 years of experience in software development. He has worked in diverse areas like Computational Fluid Dynamics, mathematical algorithms for bio-informatics, network-based license servers etc. He has worked at [Strand Life Sciences](https://strandls.com/), [DRDO](https://www.drdo.gov.in/drdo/labs-and-establishments/research-development-establishment-rdee), [M&M](https://www.mahindra.com/). He has given consultancy to [Prayas Energy Group](https://energy.prayaspune.org/), [S & I (Simulation & Innovation) Engineering Solutions (Sandi)](https://sandi.co.in/) for various computational and software projects. He is one of the lead contributors in Prayas's open source energy modelling platform , Rumi
 
-He is also a corporate trainer for python programming. He has delivered many corporate python workshops through [Pipal Academy](https://pipal.in/) in python programming to DRDO, Arcesium, VMware, Grofers (Blinkit) etc.
+He is also a corporate trainer for python programming. He has delivered many corporate python programming workshops through [Pipal Academy](https://pipal.in/) in python programming to DRDO, Arcesium, VMware, Grofers (Blinkit) etc.
 
 
