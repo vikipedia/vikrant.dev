@@ -11,6 +11,15 @@ Lead contributor to [Rumi](https://github.com/prayas-energy/rumi), an
 open-source energy modelling platform developed by the
 [Prayas Energy Group](https://prayaspune.org/peg/).
 
+### xlwb
+
+[xlwb](https://github.com/vikipedia/xlwb) This project aims at creating automation tool for updating predefined website from a excel sheet 
+
+### Ragabot
+
+[ragabot](https://github.com/vikipedia/ragabot) is simple tool which makes use of markov chains to learn from given notations of indian classical raaga and generates a tune in same raaga. 
+
+
 ## Talks
 
 ### [Ragabot — Music encoded](https://www.youtube.com/watch?v=LQNzvpKYax8)

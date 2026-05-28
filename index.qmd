@@ -15,16 +15,15 @@ about:
       href: "mailto:vikrant.patil@gmail.com"
 ---
 
-Hi, I'm Vikrant.
 
-I have a M.Tech in Computational Science from the Indian Institute of
-Science, Bangalore, and over 22 years of experience in software development
+I have over 22 years of experience in software development
 across a range of computational fields — from Computational Fluid Dynamics
 and bioinformatics algorithms to network-based license servers and Python
-programming.
+programming. I have received a M.Tech in Computational Science from the Indian Institute of
+Science, Bangalore and B.E (Mechanical Engineering) from College of Engineering, Pune.
 
-I've worked at **Strand Life Sciences**, **DRDO**, and **Mahindra**, and
-consulted for **Prayas Energy Group** and **S&I Engineering Solutions**.
+I've worked at [**Strand Life Sciences**](https://strandls.com/), **DRDO**, and **Mahindra**, and
+consulted for [**Prayas Energy Group**](https://energy.prayaspune.org/about-us) and [**S&I Engineering Solutions**](https://sandi.co.in/).
 I'm a lead contributor to [Rumi](https://github.com/prayas-energy/rumi),
 an open-source energy modelling platform by Prayas.
 
@@ -33,5 +32,4 @@ I also run corporate Python programming trainings through
 organisations including DRDO, Arcesium, VMware, and Blinkit. The full
 archive is on the [Trainings page](trainings.qmd).
 
-My main interests are mathematical algorithms, open-source tooling and
-Linux, high-performance computing, and writing good programs.
+My main interests are mathematics, mathematical algorithms, open-source tooling and Linux, high-performance computing, and writing good programs.
