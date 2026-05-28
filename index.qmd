@@ -9,7 +9,7 @@ about:
       href: https://github.com/vikipedia
     - icon: linkedin
       text: LinkedIn
-      href: "https://www.linkedin.com/in/"
+      href: https://www.linkedin.com/in/vikrantpatil/
     - icon: envelope
       text: Email
       href: "mailto:vikrant.patil@gmail.com"
