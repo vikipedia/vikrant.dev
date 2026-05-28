@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vikrant Patil",
+    "section": "",
+    "text": "Hi, I’m Vikrant.\nI have a M.Tech in Computational Science from the Indian Institute of Science, Bangalore, and over 22 years of experience in software development across a range of computational fields — from Computational Fluid Dynamics and bioinformatics algorithms to network-based license servers and Python programming.\nI’ve worked at Strand Life Sciences, DRDO, and Mahindra, and consulted for Prayas Energy Group and S&I Engineering Solutions. I’m a lead contributor to Rumi, an open-source energy modelling platform by Prayas.\nI also run corporate Python programming trainings through Pipal Academy, and have delivered workshops at organisations including DRDO, Arcesium, VMware, and Blinkit. The full archive is on the Trainings page.\nMy main interests are mathematical algorithms, open-source tooling and Linux, high-performance computing, and writing good programs."
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Other writing",
+    "section": "",
+    "text": "Things I’ve written that live outside this site."
+  },
+  {
+    "objectID": "writing.html#training-notes",
+    "href": "writing.html#training-notes",
+    "title": "Other writing",
+    "section": "Training notes",
+    "text": "Training notes\n\nnotes.pipal.in — full archive of training notes, day-by-day breakdowns of the Python sessions linked from the Trainings page."
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my corner of the internet.\nThis site is where I’ll be collecting notes on Python, training material, and the occasional writeup on things I’m working on. The Trainings page has the running archive of sessions I’ve delivered going back to 2017; everything else here is new.\nMore to come."
+  },
+  {
+    "objectID": "trainings.html",
+    "href": "trainings.html",
+    "title": "Trainings",
+    "section": "",
+    "text": "A running list of Python trainings I’ve delivered, grouped by year."
+  },
+  {
+    "objectID": "trainings.html#section",
+    "href": "trainings.html#section",
+    "title": "Trainings",
+    "section": "2017",
+    "text": "2017\n\nAdvanced Python\n\nhttps://notes.pipal.in/2017/vmware-pune-advpy/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-advpython/day1.html\nhttps://notes.pipal.in/2017/vmware-advpy/day1.html\nhttps://notes.pipal.in/2017/arcesium-oct-advpython/day1.html\n\n\n\nBasic Python for programmers\n\nhttps://notes.pipal.in/2017/vmware-python/day1.html\nhttps://notes.pipal.in/2017/vmware-oct-python/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-python/day1.html\nhttps://notes.pipal.in/2017/arcesium-oct-python/day1.html"
+  },
+  {
+    "objectID": "trainings.html#section-1",
+    "href": "trainings.html#section-1",
+    "title": "Trainings",
+    "section": "2018",
+    "text": "2018\n\nBasic Python for programmers\n\nhttps://notes.pipal.in/2018/mit-pune-march/day1.html\nhttps://notes.pipal.in/2018/vmware-feb-python/day1.html\nhttps://notes.pipal.in/2018/vmware-jan-python/day1.html\nhttps://notes.pipal.in/2018/vmware-pune-jan-python/day1.html\n\n\n\nBasic Python FinOp\n\nhttps://notes.pipal.in/2018/arcesium-basic-nov/day1.html\nhttps://notes.pipal.in/2018/arcesium-basic-oct/day5.html\n\n\n\nAdvanced Python\n\nhttps://notes.pipal.in/2018/arcesium-advanced-oct/day1.html\nhttps://notes.pipal.in/2018/vmware-advanced-apr/day1.html\nhttps://notes.pipal.in/2018/vmware-advanced-may/day1.html\nhttps://notes.pipal.in/2018/vmware-practical-master-sep/"
+  },
+  {
+    "objectID": "trainings.html#section-2",
+    "href": "trainings.html#section-2",
+    "title": "Trainings",
+    "section": "2019",
+    "text": "2019\n\nAdvanced Python\n\nhttps://notes.pipal.in/2019/arcesium_advanced_sep/\n\n\n\nBasic Python for programmers\n\nhttps://notes.pipal.in/2019/arcesium_basic_jun/day1.html\nhttps://notes.pipal.in/2019/arcesium_basic_sep/day1.html\nhttps://notes.pipal.in/2019/grofers_basic_dec/\n\n\n\nBasic Python – Teacher’s Training\n\nhttps://notes.pipal.in/2019/pccoe_basic/day1.html\n\n\n\nBasic Python FinOp\n\nhttps://notes.pipal.in/2019/arcesium_basic_apr/day1.html\nhttps://notes.pipal.in/2019/arcesium_basic_aug/day1.html"
+  },
+  {
+    "objectID": "trainings.html#section-3",
+    "href": "trainings.html#section-3",
+    "title": "Trainings",
+    "section": "2020",
+    "text": "2020\n\nAdvanced Python\n\nhttps://notes.pipal.in/2020/arcesium_advanced_feb/day1.html\n\n\n\nBasic Python FinOp\n\nhttps://notes.pipal.in/2020/arcesium_finop_batch1_module1/day1.html\nhttps://notes.pipal.in/2020/arcesium_finop_batch2/module1-day1.html\nhttps://notes.pipal.in/2020/arcesium_finop_batch3/"
+  },
+  {
+    "objectID": "trainings.html#section-4",
+    "href": "trainings.html#section-4",
+    "title": "Trainings",
+    "section": "2021",
+    "text": "2021\n\nBasic Python FinOp\n\nhttps://notes.pipal.in/2021/arcesium_finop_batch1/\nhttps://notes.pipal.in/2021/arcesium_finop_batch2/\n\n\n\nPython and ML\n\nhttps://notes.pipal.in/2021/pccoe-python-ml/"
+  },
+  {
+    "objectID": "trainings.html#section-5",
+    "href": "trainings.html#section-5",
+    "title": "Trainings",
+    "section": "2022",
+    "text": "2022\n\nBasic Python FinOp\n\nhttps://notes.pipal.in/2022/arcesium_finop_batch1/"
+  },
+  {
+    "objectID": "trainings.html#section-6",
+    "href": "trainings.html#section-6",
+    "title": "Trainings",
+    "section": "2023",
+    "text": "2023\n\nBasic Python FinOp\n\nhttps://notes.pipal.in/2023/arcesium_finop_jan/"
+  },
+  {
+    "objectID": "trainings.html#section-7",
+    "href": "trainings.html#section-7",
+    "title": "Trainings",
+    "section": "2024",
+    "text": "2024\n\nBasic Python FinOp\n\nhttps://notes.pipal.in/2024/arcesium-python-jan-2024/\nhttps://notes.pipal.in/2024/arcesium-python-jun-2024/"
+  },
+  {
+    "objectID": "trainings.html#section-8",
+    "href": "trainings.html#section-8",
+    "title": "Trainings",
+    "section": "2025",
+    "text": "2025\n\nBasic Python FinOp\n\nhttps://finop-25.arcesium.vikrant.dev/\n\n\n\nPython Made Easy: Math & Science Edition\n\nhttps://sciencemathedition25.training.vikrant.dev/\n\n\n\nPython Foundation\n\nhttps://pythonfoundationprofessional25.training.vikrant.dev/"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome\n\n\n\nmeta\n\n\n\nFirst post — a short note on what this site is for.\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Projects",
+    "section": "",
+    "text": "Lead contributor to Rumi, an open-source energy modelling platform developed by the Prayas Energy Group."
+  },
+  {
+    "objectID": "talks.html#open-source-projects",
+    "href": "talks.html#open-source-projects",
+    "title": "Talks & Projects",
+    "section": "",
+    "text": "Lead contributor to Rumi, an open-source energy modelling platform developed by the Prayas Energy Group."
+  },
+  {
+    "objectID": "talks.html#talks",
+    "href": "talks.html#talks",
+    "title": "Talks & Projects",
+    "section": "Talks",
+    "text": "Talks\n\nRagabot — Music encoded\nPyCon India 2019. Simple Markov-based learning to create tunes in Indian classical ragas.\n\n\nAdventures in iterations\nPyCon India 2018.\n\n\nCan your UI change colors like a chameleon?\nPyCon India 2009. (Slides — PDF.)"
+  }
+]
