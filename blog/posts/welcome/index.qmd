@@ -1,0 +1,15 @@
+---
+title: "Welcome"
+description: "First post — a short note on what this site is for."
+date: "2026-05-28"
+categories: [meta]
+---
+
+Welcome to my corner of the internet.
+
+This site is where I'll be collecting notes on Python, training material,
+and the occasional writeup on things I'm working on. The
+[Trainings page](../../../trainings.qmd) has the running archive of sessions
+I've delivered going back to 2017; everything else here is new.
+
+More to come.

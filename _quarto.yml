@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Vikrant Patil"
+  description: "Computational scientist, Python trainer, and open-source contributor."
+  site-url: https://vikrant.dev
+  repo-url: https://github.com/vikipedia/vikrant.dev
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: trainings.qmd
+        text: Trainings
+      - href: blog/index.qmd
+        text: Blog
+      - href: talks.qmd
+        text: Talks
+      - href: writing.qmd
+        text: Writing
+    right:
+      - icon: github
+        href: https://github.com/vikipedia
+        aria-label: GitHub
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/"
+        aria-label: LinkedIn
+      - icon: envelope
+        href: "mailto:vikrant.patil@gmail.com"
+        aria-label: Email
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

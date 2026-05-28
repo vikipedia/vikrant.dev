@@ -1,0 +1,37 @@
+---
+title: "Vikrant Patil"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/vikipedia
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/"
+    - icon: envelope
+      text: Email
+      href: "mailto:vikrant.patil@gmail.com"
+---
+
+Hi, I'm Vikrant.
+
+I have a M.Tech in Computational Science from the Indian Institute of
+Science, Bangalore, and over 22 years of experience in software development
+across a range of computational fields — from Computational Fluid Dynamics
+and bioinformatics algorithms to network-based license servers and Python
+programming.
+
+I've worked at **Strand Life Sciences**, **DRDO**, and **Mahindra**, and
+consulted for **Prayas Energy Group** and **S&I Engineering Solutions**.
+I'm a lead contributor to [Rumi](https://github.com/prayas-energy/rumi),
+an open-source energy modelling platform by Prayas.
+
+I also run corporate Python programming trainings through
+[Pipal Academy](https://pipal.in/), and have delivered workshops at
+organisations including DRDO, Arcesium, VMware, and Blinkit. The full
+archive is on the [Trainings page](trainings.qmd).
+
+My main interests are mathematical algorithms, open-source tooling and
+Linux, high-performance computing, and writing good programs.

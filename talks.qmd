@@ -1,0 +1,27 @@
+---
+title: "Talks & Projects"
+description: "Conference talks, meetups, and open-source projects."
+---
+
+## Open-source projects
+
+### Rumi
+
+Lead contributor to [Rumi](https://github.com/prayas-energy/rumi), an
+open-source energy modelling platform developed by the
+[Prayas Energy Group](https://prayaspune.org/peg/).
+
+## Talks
+
+### [Ragabot — Music encoded](https://www.youtube.com/watch?v=LQNzvpKYax8)
+
+PyCon India 2019. Simple Markov-based learning to create tunes in Indian
+classical ragas.
+
+### [Adventures in iterations](https://www.youtube.com/watch?v=WiOT4yEq058)
+
+PyCon India 2018.
+
+### [Can your UI change colors like a chameleon?](https://in.pycon.org/2009/smedia/slides/AVADIS_UI_pycon__.pdf)
+
+PyCon India 2009. (Slides — PDF.)

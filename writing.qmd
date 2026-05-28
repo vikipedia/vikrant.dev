@@ -1,0 +1,12 @@
+---
+title: "Other writing"
+description: "Writeups, notes, and material hosted elsewhere."
+---
+
+Things I've written that live outside this site.
+
+## Training notes
+
+- [notes.pipal.in](https://notes.pipal.in/) — full archive of training notes,
+  day-by-day breakdowns of the Python sessions linked from the
+  [Trainings page](trainings.qmd).
