@@ -1,2 +1,0 @@
-# vikrant.dev
-website

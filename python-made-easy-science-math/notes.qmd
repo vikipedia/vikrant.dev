@@ -1,5 +1,0 @@
----
-title: "Training Notes"
----
-
-Notes of sessions will appear here. 
