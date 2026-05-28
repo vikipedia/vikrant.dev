@@ -7,42 +7,61 @@ toc-depth: 3
 
 A running list of Python trainings I've delivered, grouped by year.
 
-## 2017
-
-### Advanced Python
-
-- <https://notes.pipal.in/2017/vmware-pune-advpy/day1.html>
-- <https://notes.pipal.in/2017/vmware-nov-advpython/day1.html>
-- <https://notes.pipal.in/2017/vmware-advpy/day1.html>
-- <https://notes.pipal.in/2017/arcesium-oct-advpython/day1.html>
-
-### Basic Python for programmers
-
-- <https://notes.pipal.in/2017/vmware-python/day1.html>
-- <https://notes.pipal.in/2017/vmware-oct-python/day1.html>
-- <https://notes.pipal.in/2017/vmware-nov-python/day1.html>
-- <https://notes.pipal.in/2017/arcesium-oct-python/day1.html>
-
-## 2018
-
-### Basic Python for programmers
-
-- <https://notes.pipal.in/2018/mit-pune-march/day1.html>
-- <https://notes.pipal.in/2018/vmware-feb-python/day1.html>
-- <https://notes.pipal.in/2018/vmware-jan-python/day1.html>
-- <https://notes.pipal.in/2018/vmware-pune-jan-python/day1.html>
+## 2025
 
 ### Basic Python FinOp
 
-- <https://notes.pipal.in/2018/arcesium-basic-nov/day1.html>
-- <https://notes.pipal.in/2018/arcesium-basic-oct/day5.html>
+- <https://finop-25.arcesium.vikrant.dev/>
+
+### Python Made Easy: Math & Science Edition
+
+- <https://sciencemathedition25.training.vikrant.dev/>
+
+### Python Foundation
+
+- <https://pythonfoundationprofessional25.training.vikrant.dev/>
+
+## 2024
+
+### Basic Python FinOp
+
+- <https://notes.pipal.in/2024/arcesium-python-jan-2024/>
+- <https://notes.pipal.in/2024/arcesium-python-jun-2024/>
+
+## 2023
+
+### Basic Python FinOp
+
+- <https://notes.pipal.in/2023/arcesium_finop_jan/>
+
+## 2022
+
+### Basic Python FinOp
+
+- <https://notes.pipal.in/2022/arcesium_finop_batch1/>
+
+## 2021
+
+### Basic Python FinOp
+
+- <https://notes.pipal.in/2021/arcesium_finop_batch1/>
+- <https://notes.pipal.in/2021/arcesium_finop_batch2/>
+
+### Python and ML
+
+- <https://notes.pipal.in/2021/pccoe-python-ml/>
+
+## 2020
 
 ### Advanced Python
 
-- <https://notes.pipal.in/2018/arcesium-advanced-oct/day1.html>
-- <https://notes.pipal.in/2018/vmware-advanced-apr/day1.html>
-- <https://notes.pipal.in/2018/vmware-advanced-may/day1.html>
-- <https://notes.pipal.in/2018/vmware-practical-master-sep/>
+- <https://notes.pipal.in/2020/arcesium_advanced_feb/day1.html>
+
+### Basic Python FinOp
+
+- <https://notes.pipal.in/2020/arcesium_finop_batch1_module1/day1.html>
+- <https://notes.pipal.in/2020/arcesium_finop_batch2/module1-day1.html>
+- <https://notes.pipal.in/2020/arcesium_finop_batch3/>
 
 ## 2019
 
@@ -65,58 +84,39 @@ A running list of Python trainings I've delivered, grouped by year.
 - <https://notes.pipal.in/2019/arcesium_basic_apr/day1.html>
 - <https://notes.pipal.in/2019/arcesium_basic_aug/day1.html>
 
-## 2020
+## 2018
+
+### Basic Python for programmers
+
+- <https://notes.pipal.in/2018/mit-pune-march/day1.html>
+- <https://notes.pipal.in/2018/vmware-feb-python/day1.html>
+- <https://notes.pipal.in/2018/vmware-jan-python/day1.html>
+- <https://notes.pipal.in/2018/vmware-pune-jan-python/day1.html>
+
+### Basic Python FinOp
+
+- <https://notes.pipal.in/2018/arcesium-basic-nov/day1.html>
+- <https://notes.pipal.in/2018/arcesium-basic-oct/day5.html>
 
 ### Advanced Python
 
-- <https://notes.pipal.in/2020/arcesium_advanced_feb/day1.html>
+- <https://notes.pipal.in/2018/arcesium-advanced-oct/day1.html>
+- <https://notes.pipal.in/2018/vmware-advanced-apr/day1.html>
+- <https://notes.pipal.in/2018/vmware-advanced-may/day1.html>
+- <https://notes.pipal.in/2018/vmware-practical-master-sep/>
 
-### Basic Python FinOp
+## 2017
 
-- <https://notes.pipal.in/2020/arcesium_finop_batch1_module1/day1.html>
-- <https://notes.pipal.in/2020/arcesium_finop_batch2/module1-day1.html>
-- <https://notes.pipal.in/2020/arcesium_finop_batch3/>
+### Advanced Python
 
-## 2021
+- <https://notes.pipal.in/2017/vmware-pune-advpy/day1.html>
+- <https://notes.pipal.in/2017/vmware-nov-advpython/day1.html>
+- <https://notes.pipal.in/2017/vmware-advpy/day1.html>
+- <https://notes.pipal.in/2017/arcesium-oct-advpython/day1.html>
 
-### Basic Python FinOp
+### Basic Python for programmers
 
-- <https://notes.pipal.in/2021/arcesium_finop_batch1/>
-- <https://notes.pipal.in/2021/arcesium_finop_batch2/>
-
-### Python and ML
-
-- <https://notes.pipal.in/2021/pccoe-python-ml/>
-
-## 2022
-
-### Basic Python FinOp
-
-- <https://notes.pipal.in/2022/arcesium_finop_batch1/>
-
-## 2023
-
-### Basic Python FinOp
-
-- <https://notes.pipal.in/2023/arcesium_finop_jan/>
-
-## 2024
-
-### Basic Python FinOp
-
-- <https://notes.pipal.in/2024/arcesium-python-jan-2024/>
-- <https://notes.pipal.in/2024/arcesium-python-jun-2024/>
-
-## 2025
-
-### Basic Python FinOp
-
-- <https://finop-25.arcesium.vikrant.dev/>
-
-### Python Made Easy: Math & Science Edition
-
-- <https://sciencemathedition25.training.vikrant.dev/>
-
-### Python Foundation
-
-- <https://pythonfoundationprofessional25.training.vikrant.dev/>
+- <https://notes.pipal.in/2017/vmware-python/day1.html>
+- <https://notes.pipal.in/2017/vmware-oct-python/day1.html>
+- <https://notes.pipal.in/2017/vmware-nov-python/day1.html>
+- <https://notes.pipal.in/2017/arcesium-oct-python/day1.html>
