@@ -32,4 +32,4 @@ I also run corporate Python programming trainings through
 organisations including DRDO, Arcesium, VMware, and Blinkit. The full
 archive is on the [Trainings page](trainings.qmd).
 
-My main interests are mathematics, mathematical algorithms, open-source tooling and Linux, high-performance computing, and writing good programs.
+My main interests are mathematics, mathematical modelling, open-source tooling and Linux, high-performance computing, and writing good programs.

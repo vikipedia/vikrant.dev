@@ -10,3 +10,8 @@ Things I've written that live outside this site.
 - full archive of training notes,
   day-by-day breakdowns of the Python sessions linked from the
   [Trainings page](trainings.qmd).
+
+
+## Parenting 
+
+- All [articles](https://bit.ly/vikrant-articles) written for palakneeti magazine
