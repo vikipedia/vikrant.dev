@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Vikrant Patil",
     "section": "",
-    "text": "I have over 22 years of experience in software development across a range of computational fields — from Computational Fluid Dynamics and bioinformatics algorithms to network-based license servers and Python programming. I have received a M.Tech in Computational Science from the Indian Institute of Science, Bangalore and B.E (Mechanical Engineering) from College of Engineering, Pune.\nI’ve worked at Strand Life Sciences, DRDO, and Mahindra, and consulted for Prayas Energy Group and S&I Engineering Solutions. I’m a lead contributor to Rumi, an open-source energy modelling platform by Prayas.\nI also run corporate Python programming trainings through Pipal Academy, and have delivered workshops at organisations including DRDO, Arcesium, VMware, and Blinkit. The full archive is on the Trainings page.\nMy main interests are mathematics, mathematical algorithms, open-source tooling and Linux, high-performance computing, and writing good programs."
+    "text": "I have over 22 years of experience in software development across a range of computational fields — from Computational Fluid Dynamics and bioinformatics algorithms to network-based license servers and Python programming. I have received a M.Tech in Computational Science from the Indian Institute of Science, Bangalore and B.E (Mechanical Engineering) from College of Engineering, Pune.\nI’ve worked at Strand Life Sciences, DRDO, and Mahindra, and consulted for Prayas Energy Group and S&I Engineering Solutions. I’m a lead contributor to Rumi, an open-source energy modelling platform by Prayas.\nI also run corporate Python programming trainings through Pipal Academy, and have delivered workshops at organisations including DRDO, Arcesium, VMware, and Blinkit. The full archive is on the Trainings page.\nMy main interests are mathematics, mathematical modelling, open-source tooling and Linux, high-performance computing, and writing good programs."
   },
   {
     "objectID": "writing.html",
@@ -19,6 +19,13 @@
     "title": "Other writing",
     "section": "Training notes",
     "text": "Training notes\n\nfull archive of training notes, day-by-day breakdowns of the Python sessions linked from the Trainings page."
+  },
+  {
+    "objectID": "writing.html#parenting",
+    "href": "writing.html#parenting",
+    "title": "Other writing",
+    "section": "Parenting",
+    "text": "Parenting\n\nAll articles written for palakneeti magazine"
   },
   {
     "objectID": "blog/posts/welcome/index.html",
