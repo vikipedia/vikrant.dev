@@ -2,19 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vikrant.dev/index.html</loc>
-    <lastmod>2026-06-29T15:24:43.211Z</lastmod>
+    <lastmod>2026-08-25T13:21:50.494Z</lastmod>
   </url>
   <url>
     <loc>https://vikrant.dev/writing.html</loc>
     <lastmod>2026-06-29T15:27:46.233Z</lastmod>
   </url>
   <url>
-    <loc>https://vikrant.dev/blog/posts/welcome/index.html</loc>
-    <lastmod>2026-05-28T10:02:45.264Z</lastmod>
+    <loc>https://vikrant.dev/blog/posts/prisoner-s-dialemma-in-a-community/index.html</loc>
+    <lastmod>2026-06-29T15:45:48.091Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vikrant.dev/CLAUDE.html</loc>
+    <lastmod>2026-06-29T15:33:29.952Z</lastmod>
   </url>
   <url>
     <loc>https://vikrant.dev/trainings.html</loc>
     <lastmod>2026-05-28T14:37:08.116Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vikrant.dev/blog/posts/welcome/index.html</loc>
+    <lastmod>2026-05-28T10:02:45.264Z</lastmod>
   </url>
   <url>
     <loc>https://vikrant.dev/blog/index.html</loc>

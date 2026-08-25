@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Vikrant Patil",
     "section": "",
-    "text": "I have over 22 years of experience in software development across a range of computational fields — from Computational Fluid Dynamics and bioinformatics algorithms to network-based license servers and Python programming. I have received a M.Tech in Computational Science from the Indian Institute of Science, Bangalore and B.E (Mechanical Engineering) from College of Engineering, Pune.\nI’ve worked at Strand Life Sciences, DRDO, and Mahindra, and consulted for Prayas Energy Group and S&I Engineering Solutions. I’m a lead contributor to Rumi, an open-source energy modelling platform by Prayas.\nI also run corporate Python programming trainings through Pipal Academy, and have delivered workshops at organisations including DRDO, Arcesium, VMware, and Blinkit. The full archive is on the Trainings page.\nMy main interests are mathematics, mathematical modelling, open-source tooling and Linux, high-performance computing, and writing good programs."
+    "text": "I have over 22 years of experience in software development across a range of computational fields — from Computational Fluid Dynamics and bioinformatics algorithms to network-based license servers and Python programming. I have received a M.Tech in Computational Science from the Indian Institute of Science, Bangalore and B.E (Mechanical Engineering) from College of Engineering, Pune.\nI’ve worked at Strand Life Sciences, DRDO, and Mahindra, and consulted for Prayas Energy Group and S&I Engineering Solutions. I’m a lead contributor to Rumi, an open-source energy modelling platform by Prayas.\nI also conduct corporate Python programming trainings through Pipal Academy, and have delivered workshops at organisations including DRDO, Arcesium, VMware, and Blinkit. The full archive is on the Trainings page.\nMy main interests are mathematics, mathematical modelling, open-source tooling and Linux, high-performance computing, and writing good programs."
   },
   {
     "objectID": "writing.html",
@@ -28,11 +28,46 @@
     "text": "Parenting\n\nAll articles written for palakneeti magazine"
   },
   {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "Welcome",
+    "objectID": "blog/posts/prisoner-s-dialemma-in-a-community/index.html",
+    "href": "blog/posts/prisoner-s-dialemma-in-a-community/index.html",
+    "title": "Prisoner’s Dialemma in a Community",
     "section": "",
-    "text": "Welcome to my corner of the internet.\nThis site is where I’ll be collecting notes on Python, training material, and the occasional writeup on things I’m working on. The Trainings page has the running archive of sessions I’ve delivered going back to 2017; everything else here is new.\nMore to come."
+    "text": "Write your post here."
+  },
+  {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.\n\n\nThe source for the personal site at https://vikrant.dev — a Quarto static website. Content is authored in .qmd (Quarto Markdown) files; there is no application code, build framework, or test suite.\n\n\n\n\nquarto preview — live-reloading local server while editing.\nquarto render — build the static site into _site/.\nquarto publish gh-pages — render and push to the gh-pages branch, which GitHub Pages serves at the vikrant.dev custom domain (set by CNAME). There is no CI workflow; publishing is manual from a working copy.\n\nRequires the quarto CLI (developed against 1.8.x).\n\n\n\n\n_quarto.yml is the single source of site config: title, navbar entries, social links, and the cosmo HTML theme. Any new top-level page must be added to the navbar here or it won’t be linked.\nTop-level pages are .qmd files at the repo root (index.qmd, trainings.qmd, talks.qmd, writing.qmd). index.qmd uses the about page template.\nThe blog is a Quarto listing page (blog/index.qmd) that auto-indexes posts under blog/posts/. To add a post, create blog/posts/&lt;slug&gt;/index.qmd with front-matter including title, date, description, and categories — those fields drive the listing.\nCross-page links use relative .qmd paths (e.g. trainings.qmd, ../../../trainings.qmd from a post). Quarto rewrites these to .html at render time — keep the .qmd extension in source.\nstyles.css holds site-wide CSS overrides on top of the theme.\n\n\n\n\n\n_site/ (render output) and .quarto/ (cache) are generated and git-ignored — never hand-edit them.\nEditor autosave/lock files (e.g. emacs #name#, name~) sometimes appear under content dirs; they are git-ignored cruft, not real content."
+  },
+  {
+    "objectID": "CLAUDE.html#what-this-is",
+    "href": "CLAUDE.html#what-this-is",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "The source for the personal site at https://vikrant.dev — a Quarto static website. Content is authored in .qmd (Quarto Markdown) files; there is no application code, build framework, or test suite."
+  },
+  {
+    "objectID": "CLAUDE.html#commands",
+    "href": "CLAUDE.html#commands",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "quarto preview — live-reloading local server while editing.\nquarto render — build the static site into _site/.\nquarto publish gh-pages — render and push to the gh-pages branch, which GitHub Pages serves at the vikrant.dev custom domain (set by CNAME). There is no CI workflow; publishing is manual from a working copy.\n\nRequires the quarto CLI (developed against 1.8.x)."
+  },
+  {
+    "objectID": "CLAUDE.html#layout-conventions",
+    "href": "CLAUDE.html#layout-conventions",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "_quarto.yml is the single source of site config: title, navbar entries, social links, and the cosmo HTML theme. Any new top-level page must be added to the navbar here or it won’t be linked.\nTop-level pages are .qmd files at the repo root (index.qmd, trainings.qmd, talks.qmd, writing.qmd). index.qmd uses the about page template.\nThe blog is a Quarto listing page (blog/index.qmd) that auto-indexes posts under blog/posts/. To add a post, create blog/posts/&lt;slug&gt;/index.qmd with front-matter including title, date, description, and categories — those fields drive the listing.\nCross-page links use relative .qmd paths (e.g. trainings.qmd, ../../../trainings.qmd from a post). Quarto rewrites these to .html at render time — keep the .qmd extension in source.\nstyles.css holds site-wide CSS overrides on top of the theme."
+  },
+  {
+    "objectID": "CLAUDE.html#do-not-edit-do-not-commit",
+    "href": "CLAUDE.html#do-not-edit-do-not-commit",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "_site/ (render output) and .quarto/ (cache) are generated and git-ignored — never hand-edit them.\nEditor autosave/lock files (e.g. emacs #name#, name~) sometimes appear under content dirs; they are git-ignored cruft, not real content."
   },
   {
     "objectID": "trainings.html",
@@ -105,11 +140,18 @@
     "text": "2017\n\nAdvanced Python\n\nhttps://notes.pipal.in/2017/vmware-pune-advpy/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-advpython/day1.html\nhttps://notes.pipal.in/2017/vmware-advpy/day1.html\nhttps://notes.pipal.in/2017/arcesium-oct-advpython/day1.html\n\n\n\nBasic Python for programmers\n\nhttps://notes.pipal.in/2017/vmware-python/day1.html\nhttps://notes.pipal.in/2017/vmware-oct-python/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-python/day1.html\nhttps://notes.pipal.in/2017/arcesium-oct-python/day1.html"
   },
   {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my corner of the internet.\nThis site is where I’ll be collecting notes on Python, training material, and the occasional writeup on things I’m working on. The Trainings page has the running archive of sessions I’ve delivered going back to 2017; everything else here is new.\nMore to come."
+  },
+  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome\n\n\n\nmeta\n\n\n\nFirst post — a short note on what this site is for.\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Prisoner’s Dialemma in a Community\n\n\n\npython\n\nmathematics\n\n\n\nA game of prisoner’s dialemma with multiple players like a community\n\n\n\n\n\nJun 29, 2026\n\n\n\n\n\n\n\nWelcome\n\n\n\nmeta\n\n\n\nFirst post — a short note on what this site is for.\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks.html",
