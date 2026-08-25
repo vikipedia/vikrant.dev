@@ -27,7 +27,7 @@ consulted for [**Prayas Energy Group**](https://energy.prayaspune.org/about-us) 
 I'm a lead contributor to [Rumi](https://github.com/prayas-energy/rumi),
 an open-source energy modelling platform by Prayas.
 
-I also run corporate Python programming trainings through
+I also conduct corporate Python programming trainings through
 [Pipal Academy](https://pipal.in/), and have delivered workshops at
 organisations including DRDO, Arcesium, VMware, and Blinkit. The full
 archive is on the [Trainings page](trainings.qmd).
