@@ -42,39 +42,67 @@
     "text": "A running list of Python trainings I’ve delivered, grouped by year."
   },
   {
-    "objectID": "trainings.html#section",
-    "href": "trainings.html#section",
+    "objectID": "trainings.html#trainings",
+    "href": "trainings.html#trainings",
     "title": "Trainings",
-    "section": "2025",
-    "text": "2025\n\nPython Made Easy: Math & Science Edition\n\nhttps://sciencemathedition25.training.vikrant.dev/\n\n\n\nPython Foundation\n\nhttps://pythonfoundationprofessional25.training.vikrant.dev/"
+    "section": "2025 — 3 trainings",
+    "text": "2025 — 3 trainings\n\nBasic Python FinOp\n\nDelivered for Arcesium\n\n\n\nPython Made Easy: Math & Science Edition\n\nhttps://sciencemathedition25.training.vikrant.dev/\n\n\n\nPython Foundation\n\nhttps://pythonfoundationprofessional25.training.vikrant.dev/"
   },
   {
-    "objectID": "trainings.html#section-1",
-    "href": "trainings.html#section-1",
+    "objectID": "trainings.html#trainings-1",
+    "href": "trainings.html#trainings-1",
     "title": "Trainings",
-    "section": "2021",
-    "text": "2021\n\nPython and ML\n\nhttps://notes.pipal.in/2021/pccoe-python-ml/"
+    "section": "2024 — 2 trainings",
+    "text": "2024 — 2 trainings\n\nBasic Python FinOp\n\nDelivered for Arcesium (January)\nDelivered for Arcesium (June)"
   },
   {
-    "objectID": "trainings.html#section-2",
-    "href": "trainings.html#section-2",
+    "objectID": "trainings.html#training",
+    "href": "trainings.html#training",
     "title": "Trainings",
-    "section": "2019",
-    "text": "2019\n\nBasic Python for programmers\n\nhttps://notes.pipal.in/2019/grofers_basic_dec/\n\n\n\nBasic Python – Teacher’s Training\n\nhttps://notes.pipal.in/2019/pccoe_basic/day1.html"
+    "section": "2023 — 1 training",
+    "text": "2023 — 1 training\n\nBasic Python FinOp\n\nDelivered for Arcesium (January)"
   },
   {
-    "objectID": "trainings.html#section-3",
-    "href": "trainings.html#section-3",
+    "objectID": "trainings.html#training-1",
+    "href": "trainings.html#training-1",
     "title": "Trainings",
-    "section": "2018",
-    "text": "2018\n\nBasic Python for programmers\n\nhttps://notes.pipal.in/2018/mit-pune-march/day1.html\nhttps://notes.pipal.in/2018/vmware-feb-python/day1.html\nhttps://notes.pipal.in/2018/vmware-jan-python/day1.html\nhttps://notes.pipal.in/2018/vmware-pune-jan-python/day1.html\n\n\n\nAdvanced Python\n\nhttps://notes.pipal.in/2018/vmware-advanced-apr/day1.html\nhttps://notes.pipal.in/2018/vmware-advanced-may/day1.html\nhttps://notes.pipal.in/2018/vmware-practical-master-sep/"
+    "section": "2022 — 1 training",
+    "text": "2022 — 1 training\n\nBasic Python FinOp\n\nDelivered for Arcesium (batch 1)"
   },
   {
-    "objectID": "trainings.html#section-4",
-    "href": "trainings.html#section-4",
+    "objectID": "trainings.html#trainings-2",
+    "href": "trainings.html#trainings-2",
     "title": "Trainings",
-    "section": "2017",
-    "text": "2017\n\nAdvanced Python\n\nhttps://notes.pipal.in/2017/vmware-pune-advpy/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-advpython/day1.html\nhttps://notes.pipal.in/2017/vmware-advpy/day1.html\n\n\n\nBasic Python for programmers\n\nhttps://notes.pipal.in/2017/vmware-python/day1.html\nhttps://notes.pipal.in/2017/vmware-oct-python/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-python/day1.html"
+    "section": "2021 — 3 trainings",
+    "text": "2021 — 3 trainings\n\nBasic Python FinOp\n\nDelivered for Arcesium (batch 1)\nDelivered for Arcesium (batch 2)\n\n\n\nPython and ML\n\nhttps://notes.pipal.in/2021/pccoe-python-ml/"
+  },
+  {
+    "objectID": "trainings.html#trainings-3",
+    "href": "trainings.html#trainings-3",
+    "title": "Trainings",
+    "section": "2020 — 4 trainings",
+    "text": "2020 — 4 trainings\n\nAdvanced Python\n\nDelivered for Arcesium (February)\n\n\n\nBasic Python FinOp\n\nDelivered for Arcesium (batch 1)\nDelivered for Arcesium (batch 2)\nDelivered for Arcesium (batch 3)"
+  },
+  {
+    "objectID": "trainings.html#trainings-4",
+    "href": "trainings.html#trainings-4",
+    "title": "Trainings",
+    "section": "2019 — 7 trainings",
+    "text": "2019 — 7 trainings\n\nAdvanced Python\n\nDelivered for Arcesium (September)\n\n\n\nBasic Python for programmers\n\nDelivered for Arcesium (June)\nDelivered for Arcesium (September)\nhttps://notes.pipal.in/2019/grofers_basic_dec/\n\n\n\nBasic Python – Teacher’s Training\n\nhttps://notes.pipal.in/2019/pccoe_basic/day1.html\n\n\n\nBasic Python FinOp\n\nDelivered for Arcesium (April)\nDelivered for Arcesium (August)"
+  },
+  {
+    "objectID": "trainings.html#trainings-5",
+    "href": "trainings.html#trainings-5",
+    "title": "Trainings",
+    "section": "2018 — 10 trainings",
+    "text": "2018 — 10 trainings\n\nBasic Python for programmers\n\nhttps://notes.pipal.in/2018/mit-pune-march/day1.html\nhttps://notes.pipal.in/2018/vmware-feb-python/day1.html\nhttps://notes.pipal.in/2018/vmware-jan-python/day1.html\nhttps://notes.pipal.in/2018/vmware-pune-jan-python/day1.html\n\n\n\nBasic Python FinOp\n\nDelivered for Arcesium (October)\nDelivered for Arcesium (November)\n\n\n\nAdvanced Python\n\nDelivered for Arcesium (October)\nhttps://notes.pipal.in/2018/vmware-advanced-apr/day1.html\nhttps://notes.pipal.in/2018/vmware-advanced-may/day1.html\nhttps://notes.pipal.in/2018/vmware-practical-master-sep/"
+  },
+  {
+    "objectID": "trainings.html#trainings-6",
+    "href": "trainings.html#trainings-6",
+    "title": "Trainings",
+    "section": "2017 — 8 trainings",
+    "text": "2017 — 8 trainings\n\nAdvanced Python\n\nDelivered for Arcesium (October)\nhttps://notes.pipal.in/2017/vmware-pune-advpy/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-advpython/day1.html\nhttps://notes.pipal.in/2017/vmware-advpy/day1.html\n\n\n\nBasic Python for programmers\n\nDelivered for Arcesium (October)\nhttps://notes.pipal.in/2017/vmware-python/day1.html\nhttps://notes.pipal.in/2017/vmware-oct-python/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-python/day1.html"
   },
   {
     "objectID": "CLAUDE.html",
