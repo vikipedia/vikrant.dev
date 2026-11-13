@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Vikrant Patil",
     "section": "",
-    "text": "I have over 22 years of experience in software development across a range of computational fields — from Computational Fluid Dynamics and bioinformatics algorithms to network-based license servers and Python programming. I have received a M.Tech in Computational Science from the Indian Institute of Science, Bangalore and B.E (Mechanical Engineering) from College of Engineering, Pune.\nI’ve worked at Strand Life Sciences, DRDO, and Mahindra, and consulted for Prayas Energy Group and S&I Engineering Solutions. I’m a lead contributor to Rumi, an open-source energy modelling platform by Prayas.\nI also conduct corporate Python programming trainings through Pipal Academy, and have delivered workshops at organisations including DRDO, Arcesium, VMware, and Blinkit. The full archive is on the Trainings page.\nMy main interests are mathematics, mathematical modelling, open-source tooling and Linux, high-performance computing, and writing good programs."
+    "text": "I have over 22 years of experience in software development across a range of computational fields — from Computational Fluid Dynamics and bioinformatics algorithms to network-based license servers and Python programming. I have received a M.Tech in Computational Science from the Indian Institute of Science, Bangalore and B.E (Mechanical Engineering) from College of Engineering, Pune.\nI’ve worked at Strand Life Sciences, DRDO, and Mahindra, and consulted for Prayas Energy Group and S&I Engineering Solutions (see Work Experience). I’m a lead contributor to Rumi, an open-source energy modelling platform by Prayas.\nI also conduct corporate Python programming trainings through Pipal Academy, and have delivered workshops at organisations including DRDO, Arcesium, VMware, and Blinkit. The full archive is on the Trainings page.\nMy main interests are mathematics, mathematical modelling, open-source tooling and Linux, high-performance computing, and writing good programs."
   },
   {
     "objectID": "writing.html",
@@ -103,6 +103,48 @@
     "title": "Trainings",
     "section": "2017 — 8 trainings",
     "text": "2017 — 8 trainings\n\nAdvanced Python\n\nDelivered for Arcesium (October)\nhttps://notes.pipal.in/2017/vmware-pune-advpy/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-advpython/day1.html\nhttps://notes.pipal.in/2017/vmware-advpy/day1.html\n\n\n\nBasic Python for programmers\n\nDelivered for Arcesium (October)\nhttps://notes.pipal.in/2017/vmware-python/day1.html\nhttps://notes.pipal.in/2017/vmware-oct-python/day1.html\nhttps://notes.pipal.in/2017/vmware-nov-python/day1.html"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Over 22 years of software development across computational fields: Computational Fluid Dynamics, bioinformatics algorithms, network-based license servers, energy modelling, and Python programming."
+  },
+  {
+    "objectID": "work.html#consulting",
+    "href": "work.html#consulting",
+    "title": "Work Experience",
+    "section": "Consulting",
+    "text": "Consulting\n\nPrayas Energy Group\nConsultant · 2019 – present\n\nLead contributor to Rumi, an open-source energy modelling platform developed by Prayas Energy Group. This invloves mainly tabular data manupulation, data pipelines and preparing data for optimization solver, data visualisation using python.\n\n\n\nS&I Engineering Solutions\nConsultant · 2008 – 2010\n\nGUI framwork and GUI for CFD software, developed at S&I Engineering Solutions\n\n\n\nDRDO\n\nSoftware development for 3D modelling of compisites base HIP joint."
+  },
+  {
+    "objectID": "work.html#research",
+    "href": "work.html#research",
+    "title": "Work Experience",
+    "section": "Research",
+    "text": "Research\n\nCausation Pathway Prediction\n\nWorked with Dr Milind Watve to simulate his causation pathway prediction theory. This involved monte carlo simulation, statistics and data visualisation."
+  },
+  {
+    "objectID": "work.html#training",
+    "href": "work.html#training",
+    "title": "Work Experience",
+    "section": "Training",
+    "text": "Training\n\nPipal Academy\nPython Trainer · 2017 – present\n\nCorporate Python programming trainings through Pipal Academy, delivered at organisations including DRDO, Arcesium, VMware, and Blinkit.\nFull archive on the Trainings page."
+  },
+  {
+    "objectID": "work.html#employment",
+    "href": "work.html#employment",
+    "title": "Work Experience",
+    "section": "Employment",
+    "text": "Employment\n\nStrand Life Sciences\nSoftware developer, Team Leader, Senior Specialist · 2004 – 2009\n\nStrand Life Sciences\nbioinformatics algorithms - advanced microarray and exon analysis, next generation genome sequencing\n\n\n\nDRDO\nSenior Research Fellow · 2003 – 2004\n\nFlow simulations of resin flow for VARTM (vacuum assisted resin transfer molding) process.\nExploration of genetic algorithm for\n\n\n\nMahindra & Mahindra\nGraduate Engineering Trainee 2000 – 2001\n\nEmission reduction of various Mahindra vehicles"
+  },
+  {
+    "objectID": "work.html#education",
+    "href": "work.html#education",
+    "title": "Work Experience",
+    "section": "Education",
+    "text": "Education\n\nM.Tech, Computational Science — Indian Institute of Science, Bangalore\nB.E., Mechanical Engineering — College of Engineering, Pune"
   },
   {
     "objectID": "CLAUDE.html",
