@@ -1,0 +1,79 @@
+---
+title: "Work Experience"
+description: "Roles, consulting engagements, and training work over 22+ years in computational software."
+toc: true
+---
+
+Over 22 years of software development across computational fields:
+Computational Fluid Dynamics, bioinformatics algorithms, network-based
+license servers, energy modelling, and Python programming.
+
+<!-- TODO: fill in role titles, dates, and details for each entry below. -->
+
+## Consulting
+
+### Prayas Energy Group
+
+*Consultant · 2019 – present*
+
+- Lead contributor to [Rumi](https://github.com/prayas-energy/rumi), an
+  open-source energy modelling platform developed by
+  [Prayas Energy Group](https://energy.prayaspune.org/about-us).
+  This invloves mainly tabular data manupulation, data pipelines and preparing data for optimization solver, data visualisation using python.
+
+### S&I Engineering Solutions
+
+*Consultant · 2008 – 2010*
+
+- GUI framwork and GUI for CFD software, developed at [S&I Engineering Solutions](https://sandi.co.in/)
+
+### DRDO
+
+- Software development for 3D modelling of compisites base HIP joint.
+
+## Research
+
+
+### Causation Pathway Prediction
+
+- Worked with [Dr Milind Watve](https://www.researchgate.net/profile/Milind-Watve) to simulate his causation pathway prediction theory. This involved monte carlo simulation, statistics and data visualisation.
+
+
+## Training
+
+### Pipal Academy
+
+*Python Trainer · 2017 – present*
+
+- Corporate Python programming trainings through
+  [Pipal Academy](https://pipal.in/), delivered at organisations including
+  DRDO, Arcesium, VMware, and Blinkit.
+- Full archive on the [Trainings page](trainings.qmd).
+
+## Employment
+
+### Strand Life Sciences
+
+*Software developer, Team Leader, Senior Specialist · 2004 – 2009*
+
+- [Strand Life Sciences](https://strandls.com/)
+- bioinformatics algorithms - advanced microarray and exon analysis, next generation genome sequencing 
+
+### DRDO
+
+*Senior Research Fellow · 2003 – 2004*
+
+- Flow simulations of resin flow for VARTM (vacuum assisted resin transfer
+molding) process.
+- Exploration of genetic algorithm for 
+
+### Mahindra & Mahindra
+
+*Graduate Engineering Trainee 2000 – 2001*
+
+- Emission reduction of various Mahindra vehicles
+
+## Education
+
+- **M.Tech, Computational Science** — Indian Institute of Science, Bangalore
+- **B.E., Mechanical Engineering** — College of Engineering, Pune

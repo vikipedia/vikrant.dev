@@ -23,7 +23,8 @@ programming. I have received a M.Tech in Computational Science from the Indian I
 Science, Bangalore and B.E (Mechanical Engineering) from College of Engineering, Pune.
 
 I've worked at [**Strand Life Sciences**](https://strandls.com/), **DRDO**, and **Mahindra**, and
-consulted for [**Prayas Energy Group**](https://energy.prayaspune.org/about-us) and [**S&I Engineering Solutions**](https://sandi.co.in/).
+consulted for [**Prayas Energy Group**](https://energy.prayaspune.org/about-us) and [**S&I Engineering Solutions**](https://sandi.co.in/)
+(see [Work Experience](work.qmd)).
 I'm a lead contributor to [Rumi](https://github.com/prayas-energy/rumi),
 an open-source energy modelling platform by Prayas.
 

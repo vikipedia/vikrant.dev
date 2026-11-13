@@ -11,6 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: work.qmd
+        text: Work
       - href: trainings.qmd
         text: Trainings
       - href: blog/index.qmd
